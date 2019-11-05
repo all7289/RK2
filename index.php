@@ -8,7 +8,7 @@
 	for($i=1,$i<=100,i++){
 		echo "<tr>";
 		for($j=1,$j<=100,j++){
-			echo "<td>"
+			echo "<td>";
 		}
 	}
 	echo '</table border=1 cellspacing=0>'
