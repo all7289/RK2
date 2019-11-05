@@ -2,16 +2,16 @@
 <html>
 <body>
 <h1>НГУЕН ТХАНЬ АН ИУ4-11</h1><br>
-<h1>task 2<h1><br>
+<h1>task 1<h1><br>
 <?php
-	echo '<table>';
-	for($i=1,$i<=100,i++){
+	echo '<table  border=1 cellspacing=0>';
+	for($i=1;$i<=100;$i++){
 		echo "<tr>";
-		for($j=1,$j<=100,j++){
+		for($j=1;$j<=100;$j++){
 			echo "<td>";
 		}
 	}
-	echo '</table border=1 cellspacing=0>';
+	echo '</table>';
 ?>
 
 <h1>task 2<h1><br>
