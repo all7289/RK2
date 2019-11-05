@@ -11,7 +11,7 @@
 			echo "<td>";
 		}
 	}
-	echo '</table border=1 cellspacing=0>'
+	echo '</table border=1 cellspacing=0>';
 ?>
 
 <h1>task 2<h1><br>
